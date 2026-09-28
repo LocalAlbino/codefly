@@ -12,6 +12,7 @@ All variants share the same charcoal UI; only syntax colors and rainbow brackets
 - **Snowfly** — monochrome whites, grays, zinc and stone, with granite strings.
 - **Duskfly** — sunset rose, mauve and lavender, with peach strings.
 - **Darkfly** — stock VSCode Dark Modern / Dark+ syntax colors, unchanged.
+- **Moonfly** — the full-saturation [vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) syntax palette.
 
 ## Status
 

@@ -1,8 +1,8 @@
 {
   "name": "codefly",
   "displayName": "Codefly",
-  "description": "VSCode Dark Modern pushed down to charcoal, with desaturated palettes for syntax. Variants: Firefly (warm sand & amber), Oceanfly (blues & purples), Forestfly (greens & yellows), Snowfly (monochrome zinc & stone), Duskfly (rose, mauve & lavender), Darkfly (stock Dark+ syntax).",
-  "version": "0.4.1",
+  "description": "VSCode Dark Modern pushed down to charcoal, with desaturated palettes for syntax. Variants: Firefly (warm sand & amber), Oceanfly (blues & purples), Forestfly (greens & yellows), Snowfly (monochrome zinc & stone), Duskfly (rose, mauve & lavender), Darkfly (stock Dark+ syntax), Moonfly (vim-moonfly-colors syntax).",
+  "version": "0.5.0",
   "publisher": "LocalAlbino",
   "engines": {
     "vscode": "^1.80.0"
@@ -41,6 +41,11 @@
         "label": "Darkfly",
         "uiTheme": "vs-dark",
         "path": "./themes/darkfly-color-theme.json"
+      },
+      {
+        "label": "Moonfly",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moonfly-color-theme.json"
       }
     ]
   }
