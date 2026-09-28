@@ -631,7 +631,7 @@
     },
     {
       "name": "JSX / TSX component tags",
-      "scope": ["support.class.component", "entity.name.tag.jsx", "entity.name.tag.tsx"],
+      "scope": ["support.class.component"],
       "settings": { "foreground": "#4ec9b0" }
     },
     {
