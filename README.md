@@ -1,6 +1,6 @@
-# Codefly
+# Firefly
 
-VSCode Dark Modern pushed down to charcoal, with a single syntax palette: **Firefly**, warm sand and amber tones.
+VSCode Dark Modern pushed down to charcoal, with warm sand and amber syntax colors.
 
 ## Status
 
