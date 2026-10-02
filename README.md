@@ -1,18 +1,6 @@
 # Codefly
 
-VSCode Dark Modern pushed down to charcoal, with desaturated syntax palettes to cycle between.
-
-## Variants
-
-All variants share the same charcoal UI; only syntax colors and rainbow brackets change.
-
-- **Firefly** — warm, desaturated sand and amber tones.
-- **Oceanfly** — blues and purples, with seafoam-green strings.
-- **Forestfly** — greens and yellows with rust/brown accents, with yellow strings.
-- **Snowfly** — monochrome whites, grays, zinc and stone, with granite strings.
-- **Duskfly** — sunset rose, mauve and lavender, with peach strings.
-- **Darkfly** — stock VSCode Dark Modern / Dark+ syntax colors, unchanged.
-- **Moonfly** — the full-saturation [vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) syntax palette.
+VSCode Dark Modern pushed down to charcoal, with a single syntax palette: **Firefly**, warm sand and amber tones.
 
 ## Status
 
