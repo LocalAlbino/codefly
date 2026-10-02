@@ -318,12 +318,12 @@
     {
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
-      "settings": { "foreground": "#828a6a" }
+      "settings": { "foreground": "#6a9955" }
     },
     {
       "name": "Doc comment tags",
       "scope": ["comment.block.documentation storage.type.class", "comment.block.documentation entity.name.type", "comment.block.documentation keyword.other", "comment.block.documentation variable"],
-      "settings": { "foreground": "#a1a47a" }
+      "settings": { "foreground": "#89b86e" }
     },
 
     {
@@ -629,7 +629,7 @@
     {
       "name": "Comment delimiters stay comment-colored",
       "scope": ["comment punctuation", "punctuation.definition.comment"],
-      "settings": { "foreground": "#828a6a" }
+      "settings": { "foreground": "#6a9955" }
     },
 
     {
@@ -730,7 +730,7 @@
     {
       "name": "Markdown quotes",
       "scope": ["markup.quote", "punctuation.definition.quote.begin.markdown"],
-      "settings": { "foreground": "#828a6a" }
+      "settings": { "foreground": "#6a9955" }
     },
     {
       "name": "Markdown code",

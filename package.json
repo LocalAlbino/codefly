@@ -2,7 +2,7 @@
   "name": "firefly",
   "displayName": "Firefly",
   "description": "VSCode Dark Modern pushed down to charcoal, with warm sand and amber syntax colors.",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "publisher": "LocalAlbino",
   "engines": {
     "vscode": "^1.80.0"
